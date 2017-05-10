@@ -1,8 +1,18 @@
-﻿# 20170510 I am Here/vousmecouter blog的搭建
-
-标签（空格分隔）： 记录 github 
+20170510 I am Here/vousmecouter blog的搭建
 
 ---
+layout:     
+title:      
+subtitle:   
+date:       
+author:     "vousmecouter"
+header-img: 
+catalog: true
+tags:
+    - 生活
+    - 记录
+---
+
 
 一直想要选择一种方式记录自己的学习，作为印象笔记的重度患者，不得不抱怨，印象笔记的编辑界面十分简陋，共享体验太差了，所以尝试在github上基于gitpage+jekyll 搭建一个属于自己的博客
 
