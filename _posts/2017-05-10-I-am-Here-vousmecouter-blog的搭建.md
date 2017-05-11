@@ -4,7 +4,7 @@ title:   "I am Here"
 subtitle:  "blog的搭建"
 date:       2017-05-11
 author:     "vousmecouter"
-header-img: 
+header-img: vousmecouter.github.io/img/zhang.jpg
 catalog: true
 tags:
     - 记录
