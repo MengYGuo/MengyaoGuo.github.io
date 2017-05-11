@@ -7,10 +7,7 @@ author:     "vousmecouter"
 header-img: vousmecouter.github.io/img/zhang.jpg
 catalog: true
 tags:
-    - 前端开发
-    - JavaScript
-    - PWA
-   
+    记录 
 ---
 
 
