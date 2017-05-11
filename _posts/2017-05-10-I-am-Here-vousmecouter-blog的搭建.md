@@ -1,13 +1,13 @@
 ---
-layout:     
-title:   I am Here
-subtitle:  
-date:       
+layout:  post  
+title:   "I am Here"
+subtitle:  "blog的搭建"
+date:       2017-05-11
 author:     "vousmecouter"
 header-img: 
 catalog: true
 tags:
-    - 生活
+    - 记录
 ---
 
 
@@ -18,5 +18,4 @@ tags:
 
 因为渴望达到目的而去快速的解决问题,使得获取知识十分高效,但是却往往不够深入;希望可以坚持)
 
-![aa](‪‪E:\aMYGdata\blog\zhang.jpg)
 
