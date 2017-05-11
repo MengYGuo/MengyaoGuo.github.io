@@ -6,8 +6,7 @@ date:       2017-05-11
 author:     "vousmecouter"
 header-img: vousmecouter.github.io/img/zhang.jpg
 catalog: true
-tags:
-    记录 
+tags: 记录 
 ---
 
 
