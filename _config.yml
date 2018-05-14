@@ -70,7 +70,7 @@ ga_domain:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "编写与剪辑，<br>一身一命，生息在，广袤寂寞的天地间"
+sidebar-about-description: "好好学习，天天向上"
 sidebar-avatar: /img/img-b759702769aeef71899409437ade8e54.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
